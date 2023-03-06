@@ -28,3 +28,39 @@ button:hover{
     background-color: #a5e6cc;
     cursor: pointer;
 }
+
+#question{
+    padding: 15px 20px;
+    margin: 10%;
+    flex-wrap: wrap;
+    text-align: center;
+    border-style: double;
+    background-color: #251854;
+    display: flex;
+    flex-direction: column;
+}
+
+.choices{
+    display: flex;
+    justify-content: center;
+    background-color: #a5e6cc;
+    margin: 10px;
+    padding: 0 25%;
+    border-radius: 5px;
+}
+
+.choices:hover{
+    transform: scale(1.05);
+    background-color: #bba8e6;
+    cursor: pointer;
+}
+.choice-letter{
+    flex-wrap: wrap;
+    margin: 30px 50px;
+
+}
+
+.choice-text{
+    flex-wrap: wrap;
+}
+
