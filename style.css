@@ -1,0 +1,30 @@
+:root{
+    background-color: #604991;
+}
+
+.container{
+    padding: 15% 25%;
+    justify-content: center;
+    text-align: center;
+}
+
+h1{
+    font-size: 60px;
+}
+
+p{
+    font-size: 30px;
+}
+
+button{
+    font-weight: bold;
+    padding: 15px 25px;
+    font-size: 25px;
+    background-color: #bba8e6;
+    border-radius: 20px;
+}
+
+button:hover{
+    background-color: #a5e6cc;
+    cursor: pointer;
+}
