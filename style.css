@@ -29,6 +29,15 @@ button:hover{
     cursor: pointer;
 }
 
+#timer{
+    padding: 0 25%;
+    display: flex;
+}
+
+#score{
+    padding: 0 25%;
+    display: flex;
+}
 #question{
     padding: 15px 20px;
     margin: 10%;
